@@ -22,7 +22,7 @@
     margin-left: 2vh;
     font-weight: 565;
 }
- 
+
 .nav-link a:hover {
     color: cornsilk;
 }
@@ -50,6 +50,7 @@ main {
     position: relative;
     max-width: 30vh;
 }
+
 .text-right {
     text-align: center !important;
 }
@@ -64,7 +65,7 @@ main {
     height: 543px;
     width: 415px;
 }
- 
+
 /*footer*/
 
 .smed {
@@ -80,6 +81,14 @@ footer {
 #footer-row {
     padding: 15px;
     margin: 0;
+}
+
+a {
+    color: #734eaf73;
+}
+
+a:hover {
+    color: salmon;
 }
 
 a:active {
