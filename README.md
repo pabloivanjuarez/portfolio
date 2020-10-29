@@ -1,1 +1,1 @@
-Using Bootsrap’s framework is great. No need to use many @media queries if you find the right class or id. w3schools has amazing resources, couldn’t have gotten as far as I did without them. I am excited to further expand on this homework assignment. I’ll definitely be using this project as a base for a more robust portfolio page down the road. Overall, lot’s of fun! I enjoyed making this.
+# Portfolio_Deux
