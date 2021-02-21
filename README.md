@@ -1,1 +1,55 @@
-Using Bootsrap’s framework is great. No need to use many @media queries if you find the right class or id. w3schools has amazing resources, couldn’t have gotten as far as I did without them. I am excited to further expand on this homework assignment. I’ll definitely be using this project as a base for a more robust portfolio page down the road. Overall, lot’s of fun! I enjoyed making this.
+
+  # Portfolio v1
+  ![License Badge](https://img.shields.io/badge/License-MIT-blue) ![Code Badge](https://img.shields.io/badge/JavaScript-100%25-green)
+  
+  ## Description
+
+  party time
+
+
+---
+  ## Table of Contents
+  
+  * [Installation](#installastion)
+
+  * [Usage](#usage)
+
+  * [Tests](#tests)
+
+  * [Contributing](#contributing)
+
+  * [Questions](#questions)
+
+
+---
+  ## Installation
+
+  To install necessary dependencies, run the following command:
+  
+  ### ```npm i```
+
+
+---
+  ## Usage
+ 
+  Space created for your Text
+
+
+---  
+  ## Tests
+
+  ### ```npm run test```
+
+
+---  
+  ## Contributing
+
+  
+
+  
+---  
+  ## Questions
+  
+  If you have any questions about the project, open an issue or contact me directly through my [email](mailto:weekdaypablo@gmail.com).
+  You can find more of my work at [Git Hub](https://github.com/pabloivanjuarez).
+
