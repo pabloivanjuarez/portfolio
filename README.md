@@ -1,9 +1,9 @@
 
   # Portfolio v1
   ![License Badge](https://img.shields.io/badge/License-MIT-blue) 
-  ![HTML Badge](https://img.shields.io/badge/HTML-100%25-green)
-  ![CSS Badge](https://img.shields.io/badge/CSS-100%25-green)
-  ![JS Badge](https://img.shields.io/badge/JavaScript-100%25-green)
+  ![HTML Badge](https://img.shields.io/badge/HTML-97.2%25-red)
+  ![CSS Badge](https://img.shields.io/badge/CSS-2.7%25-purple)
+  ![JS Badge](https://img.shields.io/badge/JavaScript-0.1%25-yellow)
   
   ## Description
 
