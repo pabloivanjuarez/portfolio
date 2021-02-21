@@ -7,46 +7,7 @@
   
   ## Description
 
-  party time
-
-
----
-  ## Table of Contents
-  
-  * [Installation](#installastion)
-
-  * [Usage](#usage)
-
-  * [Tests](#tests)
-
-  * [Contributing](#contributing)
-
-  * [Questions](#questions)
-
-
----
-  ## Installation
-
-  To install necessary dependencies, run the following command:
-  
-  ### ```npm i```
-
-
----
-  ## Usage
- 
-  Space created for your Text
-
-
----  
-  ## Tests
-
-  ### ```npm run test```
-
-
----  
-  ## Contributing
-
+  My very first Portfolio, basic HTML with a little bootstrap for flavor. 
   
 
   
